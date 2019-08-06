@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\16641\desktop\desk_document\tetris\tetris\main.cpp(41): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\16641\desktop\desk_document\tetris\tetris\main.cpp(453): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\16641\desktop\desk_document\tetris\tetris\main.cpp(244): warning C4715: “Tetris::Turn”: 不是所有的控件路径都返回值
+  tetris.vcxproj -> C:\Users\16641\Desktop\desk_document\tetris\Debug\tetris.exe
